@@ -7,3 +7,10 @@ Code will publish soon!!!!!!!
 
 ## Visual Results
 <img src="images/results.png"/>
+
+
+
+
+  ## License
+
+  Released under the [ASU GitHub Project License](https://github.com/Retinotopy-mapping-Research/DRRM/blob/master/LICENSE.txt).
