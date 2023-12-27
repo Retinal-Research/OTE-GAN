@@ -33,7 +33,7 @@ def PSNR(pred, gt, shave_border=0):
     return 20 * math.log10(1.0 / rmse)
 
 # Training settings
-parser = argparse.ArgumentParser(description="PyTorch SRResNet") 
+parser = argparse.ArgumentParser(description="PyTorch") 
 parser.add_argument("--batchSize", type=int, default=12, help="training batch size")
 parser.add_argument("--nEpochs", type=int, default=200, help="number of epochs to train for")
 parser.add_argument("--lr", type=float, default=1e-4, help="Learning Rate. Default=1e-4")
